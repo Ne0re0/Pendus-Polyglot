@@ -1,4 +1,4 @@
-# Pendus-Polyglot
+# Pendus Polyglot
 Ce dossier contient des codes du jeu du pendu écrits dans différents langages.
 
 L'objectif principal de ce projet est d'apprendre les bases de chaque langages.  
