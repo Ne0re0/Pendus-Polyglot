@@ -7,11 +7,11 @@ Le script référence est celui de Python car c'est un langage que je maitrise d
 ### Jeux terminés
 1. Python
 2. Bash
+3. Java
 
 ### Jeux à venir
 
-3. PowerShell
-4. JavaScript
-5. Java
-6. Rust
-7. C
+- PowerShell
+- JavaScript
+- Rust
+- C
